@@ -1,8 +1,8 @@
 Linux
 =====
 
-Source for materials: https:
+Source for materials: 
 
-  //www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621#.U-u9WVYeZG4
+  https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-introduction-1621#.U-u9WVYeZG4
 
-  http://www.linuxfoundation.org
+  https://www.linuxfoundation.org
